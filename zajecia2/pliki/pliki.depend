@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544720274 source:c:\users\pogol\documents\cpp\zajecia2\pliki\main.cpp
+	<iostream>
+	<fstream>
+

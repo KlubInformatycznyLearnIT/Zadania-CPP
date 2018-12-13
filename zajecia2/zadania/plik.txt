@@ -1,0 +1,4 @@
+Jasiek bla		LearnIT.
+ta linia juz sie nie pobierze.
+chyba ze zostanie pobrana w petli
+aaaaaaaaaaaaa
